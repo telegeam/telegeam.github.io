@@ -14,7 +14,7 @@ telegeam的维护需要一定的人力物力，在此过程中离不开大家的
 
 [点击此处](https://afdian.net/a/awaowo) 或扫描下方的二维码赞助我们。您的赞助是我们前进的动力！
 感谢赞助！
- !(https://telegeam.github.io/assets/images/photo_2023-08-16_12-15-08.png
+ !(https://telegeam.github.io/assets/images/photo_2023-08-16_12-15-08.png)
 微信赞赏码
 
 ![2](https://telegeam.github.io/assets/images/0x481d73B5955f55813EEA39404e88D8e2833468c2.png)
