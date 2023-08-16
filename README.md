@@ -16,11 +16,10 @@ telegeam的维护需要一定的人力物力，在此过程中离不开大家的
 
 [微信赞赏码]
 ![1](https://telegeam.github.io/assets/images/photo_2023-08-16_12-15-08.png)
-
-[ERC20网络地址：0x481d73B5955f55813EEA39404e88D8e2833468c2]
+ERC20网络地址：0x481d73B5955f55813EEA39404e88D8e2833468c2
 ![2](https://telegeam.github.io/assets/images/0x481d73B5955f55813EEA39404e88D8e2833468c2.png)
 
-[TRC20网络地址：TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg]
+TRC20网络地址：TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg
 ![3](https://telegeam.github.io/assets/images/TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg.png)
 ### 免责声明
 
