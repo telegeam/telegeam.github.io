@@ -12,7 +12,7 @@ telegeam - Telegram频道导航。收录Telegram上的优质频道，打造一�
 
 telegeam的维护需要一定的人力物力，在此过程中离不开大家的支持。
 
-[点击此处](https://github.com/telegeam/README.md) 或扫描下方的二维码赞助我们。您的赞助是我们前进的动力！
+[点击此处](https://telegeam.github.io/aboutt/) 或扫描下方的二维码赞助我们。您的赞助是我们前进的动力！
 感谢赞助
 
  ![1](https://telegeam.github.io/assets/images/photo_2023-08-16_12-15-08.png)
