@@ -1,6 +1,6 @@
-# telegeam - Telegram频道导航
+# Tg电报纸飞机频道群组 - Telegram频道群组导航
 
-telegeam - Telegram频道导航。收录Telegram上的优质频道，打造一个高质量Telegram频道导航。
+Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上的优质频道，打造一个高质量Telegram频道导航。
 
 ### 网站地址：[传送门](https://telegeam.github.io/)
 
