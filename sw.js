@@ -130,7 +130,7 @@ const handle = async function (req) {
     const urlPath = urlObj.pathname;
     let urls = []
 
-    if (req.method == "GET" && (domain == "tgnav.github.io" || domain == "localhost")) {
+    if (req.method == "GET" && (domain == "telegeam.github.io" || domain == "localhost")) {
         const fullpath = (path) => {
             path = path.split('?')[0].split('#')[0]
             if (path.match(/\/$/)) {
