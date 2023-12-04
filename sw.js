@@ -1,4 +1,4 @@
-const CACHE_NAME = 'TGNAVCache';
+const CACHE_NAME = 'telegeamCache';
 
 let cachelist = [];
 
