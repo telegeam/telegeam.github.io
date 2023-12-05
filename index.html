@@ -69,6 +69,33 @@
             });
         }
     </script>
+	</a>
+</div>
+<div class="nav-item d-md-none mobile-menu py-2 position-relative"><a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar"><i class="iconfont icon-classification icon-lg"></i></a></div> <div class="collapse navbar-collapse order-2 order-md-1">
+<div class="header-mini-btn">
+<label>
+<input id="mini-button" type="checkbox" checked="checked">
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<path class="line--1" d="M0 40h62c18 0 18-20-17 5L31 55"></path>
+<path class="line--2" d="M0 50h80"></path>
+<path class="line--3" d="M0 60h62c18 0 18 20-17-5L31 45"></path>
+</svg>
+</label>
+</div>
+
+<div class="weather">
+<div id="he-plugin-simple" style="display: contents;"></div>
+<script>WIDGET = {CONFIG: {"modules": "12034","background": "5","tmpColor": "888","tmpSize": "14","cityColor": "888","citySize": "14","aqiSize": "14","weatherIconSize": "24","alertIconSize": "18","padding": "10px 10px 10px 10px","shadow": "1","language": "auto","fixed": "false","vertical": "middle","horizontal": "left","key": "a922adf8928b4ac1ae7a31ae7375e191"}}</script>
+<script>
+                            loadFunc(function() {
+                                let script = document.createElement("script");
+                                script.setAttribute("async", "");
+                                script.src = "//widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0";
+                                document.body.appendChild(script);
+                            });
+                            </script>
+</div>
+	
 </head>
 
 
