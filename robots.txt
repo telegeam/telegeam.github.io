@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://telegeam.github.io/blog/sitemap.xml
+
