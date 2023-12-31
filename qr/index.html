@@ -1,7 +1,13 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<script src="qrcode.min.js"></script>
+</head>
+<body>
 <div id="qrcode"></div>
 <script type="text/javascript">
 var qrcode = new QRCode(document.getElementById("qrcode"), {
-	text: "text",
+	text: "",
 	width: 128,
 	height: 128,
 	colorDark : "#000000",
@@ -9,3 +15,5 @@ var qrcode = new QRCode(document.getElementById("qrcode"), {
 	correctLevel : QRCode.CorrectLevel.H
 });
 </script>
+</body>
+</html>
