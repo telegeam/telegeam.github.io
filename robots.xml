@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: http://telegeam.github.io/sitemap.xml
+Sitemap: http://telegeam.github.io/dh/sitemap.xml
