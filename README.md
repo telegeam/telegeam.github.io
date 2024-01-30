@@ -8,13 +8,13 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 
 ### 高速机场推荐1
 
-[【快猫】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+[【快猫】](https://kuaimao.ltd/#/register?code=TTaIXhNs)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-注册地址：[【快猫官网（点击注册）】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+注册地址：[【快猫官网（点击注册）】](https://kuaimao.ltd/#/register?code=TTaIXhNs)
 
 ### 高速机场推荐2
 
