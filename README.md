@@ -1,10 +1,19 @@
 # Tg电报纸飞机频道群组 - Telegram频道群组导航
 
-Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上的优质频道，打造一个高质量Telegram频道导航。
+Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上的优质频道，打造一个高质量Telegram群组频道导航。
 
 ### 网站地址：[传送门](https://telegeam.github.io/)
 
 ## 科学上网翻墙高速机场推荐：
+
+###  高速机场推荐
+
+[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+不限设备数
+
+解锁流媒体、chatGPT
+
+注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
 
 ### 高速机场推荐1
 
