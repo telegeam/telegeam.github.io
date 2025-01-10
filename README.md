@@ -15,7 +15,31 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
   *  *  *
 ## 科学上网翻墙高速机场推荐：
 
-###  高速机场推荐
+## 高速机场推荐
+
+## [汇总](#汇总)
+
+点击名称可以看到详情
+
+| 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
+| :-- | :-- | :-- | :-- | :-- |
+| [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
+| [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) |  | 10 元 200G/月 |  |
+| [FC](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) |  | 10 元 200G/月 |  |
+| [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
+| [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) | [宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) |  | 5元 1000G/月 |  |
+| [三分机场](https://uk.sanfen.me/register?code=D3AphwEh) | [uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh) |  | 8元 200G/季 |  |
+| [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
+| [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [冲上云霄](https://cpdd.one/?r=42354) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
+| [ssone](https://hello-ssone.com/register?aff=0CNXS3Mx) | [hello-ssone.com](https://hello-ssone.com/register?aff=0CNXS3Mx) | 1天 1G | 10元 100G/月 |  |
+| [加速啦](https://jiasu.la/?r=42350) | [jiasu.la](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
+| [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
+| [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
+| [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
+| [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
+| [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
+| [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
 不限设备数
