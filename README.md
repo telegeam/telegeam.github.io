@@ -23,7 +23,7 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [EF](https://xsus2025.xyz/register?code=4rj0X9mc) | [www.efcloud1.com](https://xsus2025.xyz/register?code=4rj0X9mc) |  | 10 元 200G/月 |  |
+| [EF](https://kkjiasu.top/#/register?code=lhGhQflc) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) |  | 10 元 200G/月 |  |
 | [FC](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) |  | 10 元 200G/月 |  |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
@@ -37,26 +37,26 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [EF](https://xsus2025.xyz/register?code=4rj0X9mc) | [www.efcloud1.com](https://xsus2025.xyz/register?code=4rj0X9mc) |  | 10 元 200G/月 |  |
+| [EF](https://kkjiasu.top/#/register?code=lhGhQflc) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
-[【EFCloud】](https://xsus2025.xyz/register?code=4rj0X9mc)
+[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://xsus2025.xyz/register?code=4rj0X9mc)
+注册地址：[【EFCloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ### 高速机场推荐1
 
-[【快猫】](https://xsus2025.xyz/register?code=4rj0X9mc)
+[【快猫】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-注册地址：[【快猫官网（点击注册）】](https://xsus2025.xyz/register?code=4rj0X9mc)
+注册地址：[【快猫官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ### 高速机场推荐2
 
