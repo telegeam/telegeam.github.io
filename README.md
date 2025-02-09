@@ -46,7 +46,7 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 [【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
-解锁流媒体、chatGPT，解锁奈飞
+解锁流媒体、chatGPT，解锁奈飞.。
 
 注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
