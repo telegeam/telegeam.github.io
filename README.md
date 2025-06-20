@@ -1,5 +1,5 @@
 ---
-modified: 2025-6-19T08:21:23+08:00
+modified: 2025-6-20T08:21:23+08:00
 ---
 # Tg电报纸飞机频道群组 - Telegram频道群组导航                                                   
 
@@ -28,6 +28,8 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 ## 科学上网翻墙高速机场推荐：
 
 ## 高速机场推荐
+
+#### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
 ## [汇总](#汇总)
 
