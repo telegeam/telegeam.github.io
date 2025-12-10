@@ -4,5 +4,5 @@ Allow: /
 Sitemap: http://telegeam.github.io/blog1/sitemap.xml
 Sitemap: http://telegeam.github.io/dh/sitemap.xml
 Sitemap: http://telegeam.github.io/clashv2rayshare/sitemap.xml
-Sitemap: https://telegeam.github.io/clashnode/
-Sitemap: https://telegeam.github.io/youxi/
+Sitemap: https://telegeam.github.io/clashnode/sitemap.xml
+Sitemap: https://telegeam.github.io/youxi/sitemap.xml
