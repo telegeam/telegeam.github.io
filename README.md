@@ -48,7 +48,6 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 | [西瓜云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9元 120G/月 |  |
 | [稳连云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK0) |  | 7元 100G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
-| [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
 ### 高速机场推荐1
@@ -62,23 +61,6 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 
 ### 高速机场推荐2
 
-<!---[【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
-
-FCCloud全球节点，解锁流媒体GPT，平民价格
-
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)---->
-
-### 高速机场推荐3
-
-[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
-🟢全中转高速节点
-🟢流媒体GPT解锁
-🟢解锁冷门国家
-
-
-解锁流媒体、chatGPT
-
-注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐4 
 
