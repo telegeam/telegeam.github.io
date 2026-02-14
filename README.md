@@ -38,12 +38,9 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [星辰vpn](http://c.xcvpn.me/?path=register&code=jWv0CnPO) | [点击进入](http://c.xcvpn.me/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [加速啦](https://jiasu.la/?r=42350) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [快猫](https://cdn1.ikuaimao.online/#/register?code=9xg6G0AV) | [点击进入](https://cdn1.ikuaimao.online/#/register?code=9xg6G0AV)  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9元 120G/月 |  |
 | [稳连云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK0) |  | 7元 100G/月 |  |
